@@ -83,7 +83,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.msa.demo.sockshop.OrderApplication</mainClass>
+					<mainClass>com.msa.demo.sockshop.orders.OrderApplication</mainClass>
 				</configuration>
 				<executions>
 					<execution>
